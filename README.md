@@ -8,3 +8,8 @@
 - 方正仿宋 [下载](http://www.foundertype.com/index.php/FontInfo/index.html?id=128)
 - 方正书宋 [下载](http://www.foundertype.com/index.php/FontInfo/index.html?id=151)
 - 方正楷体 [下载](http://www.foundertype.com/index.php/FontInfo/index.html?id=137)
+
+## 思源
+
+- 思源黑体 [OTF官方下载](https://github.com/adobe-fonts/source-han-sans/releases) [TTF下载](https://github.com/Pal3love/Source-Han-TrueType/releases)
+- 思源宋体 [官方下载](https://github.com/adobe-fonts/source-han-serif/releases)
