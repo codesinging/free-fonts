@@ -2,6 +2,10 @@
 
 收集常用的可以免费商业使用的字体
 
+## 阿里巴巴
+
+- 阿里巴巴普惠体 [官方下载](https://alibabafont.taobao.com/wow/alibabafont/act/alifont)
+
 ## 方正
 
 - 方正黑体 [下载](http://www.foundertype.com/index.php/FontInfo/index.html?id=131)
